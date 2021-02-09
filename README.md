@@ -7,7 +7,8 @@ I started to appreciate books (e.g. Audiobooks) since I entered my thirties 😌
 Feel free to share your recommendations - Every day learning
 [BV Gauri](mailto:bv.gauri@gmail.com?subject=[GitHub%20books])
 
-
+# People I follow
+https://github.com/ralphkootker/books and https://github.com/lbeneyze/books
 
 ### Contents
   - [Done](#done)
@@ -34,6 +35,7 @@ Feel free to share your recommendations - Every day learning
 |------------|-------------|-------------|-------------|
 | <img src="https://images-na.ssl-images-amazon.com/images/I/412m6c12zBL._SX329_BO1,204,203,200_.jpg" width="100"> |[INSPIRED: How to Create Tech Products Customers Love (Silicon Valley Product Group)](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507/) | Marty Cagan | ⭐⭐⭐⭐⭐
 | <img src="https://m.media-amazon.com/images/I/51SGjt9pPlL.jpg" width="100"> |[Shoe Dog: A Memoir by the Creator of Nike](https://www.amazon.com/Shoe-Dog-Phil-Knight-audiobook/dp/B01CRJA470/) | Phil Knight | ⭐⭐⭐⭐⭐
+| <img src="https://www.bol.com/nl/f/change-by-design/30486473/" width="100"> |[Change by Design](https://www.bol.com/nl/f/change-by-design/30486473/)| Tim Brown | ⭐⭐⭐⭐⭐
 | <img src="https://images-na.ssl-images-amazon.com/images/I/41Mq7Ss7lPL._SX331_BO1,204,203,200_.jpg" width="100"> |[Principles: Life and Work](https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021) | Ray Dalio | ⭐⭐⭐⭐⭐
 | <img src="https://m.media-amazon.com/images/I/51N9XkgX1dL.jpg" width="100"> |[Scrum: The Art of Doing Twice the Work in Half the Time](https://www.amazon.com/Scrum-audiobook/dp/B00NHZ6PPE/) | Jeff Sutherland | ⭐⭐⭐⭐⭐
 | <img src="https://m.media-amazon.com/images/I/51IQzkj0+NL.jpg" width="100"> |[Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://www.amazon.com/Elon-Musk-Ashlee-Vance-audiobook/dp/B00UVY52JO/) | Ashlee Vance | ⭐⭐⭐⭐⭐
