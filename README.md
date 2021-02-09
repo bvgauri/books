@@ -5,7 +5,7 @@ I started to appreciate books (e.g. Audiobooks) since I entered my thirties 😌
 
 # Contribute
 Feel free to share your recommendations - Every day learning
-[Ralph Kootker](mailto:ralph.kootker@gmail.com?subject=[GitHub%20books])
+[BV Gauri](mailto:bv.gauri@gmail.com?subject=[GitHub%20books])
 
 
 
@@ -16,7 +16,7 @@ Feel free to share your recommendations - Every day learning
     - [Short list](#short-list)
     - [Long list](#long-list)
 
-## Done
+## In Progress
 |            | Book        | Author      | Rating      |
 |------------|-------------|-------------|-------------|
 | <img src="https://images-na.ssl-images-amazon.com/images/I/412m6c12zBL._SX329_BO1,204,203,200_.jpg" width="100"> |[INSPIRED: How to Create Tech Products Customers Love (Silicon Valley Product Group)](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507/) | Marty Cagan | ⭐⭐⭐⭐⭐
@@ -34,13 +34,9 @@ Feel free to share your recommendations - Every day learning
 | <img src="https://m.media-amazon.com/images/I/51bGhYfO9KL.jpg" width="100"> |[Getting Things Done: The Art of Stress-Free Productivity](https://www.amazon.com/Getting-Things-Done-David-Allen-audiobook/dp/B01B6WSK5C/) | David Allen | ⭐⭐⭐⭐
 | <img src="https://images-na.ssl-images-amazon.com/images/I/51SgxUg809L._SX329_BO1,204,203,200_.jpg" width="100"> |[Why Digital Transformations Fail: The Surprising Disciplines of How to Take Off and Stay Ahead](https://www.amazon.com/Why-Digital-Transformations-Fail-Disciplines/dp/1523085347/) | Tony Saldanha | ⭐⭐⭐
 | <img src="https://m.media-amazon.com/images/I/51K-iHvDHNL.jpg" width="100"> |[Influence: The Psychology of Persuasion](https://www.amazon.com/Influence-Robert-B-Cialdini-audiobook/dp/B01KWAPHAK/) | Robert B. Cialdini  | ⭐⭐⭐
-
-
-## In Progress
-|            | Book        | Author      |
-|------------|-------------|-------------|
 | <img src="https://m.media-amazon.com/images/I/51yQsYZQifL.jpg" width="100"> |[Infonomics: How to Monetize, Manage, and Measure Information as an Asset for Competitive)](https://www.amazon.com/Infonomics-Douglas-B-Laney-audiobook/dp/B076642QK7/) | Douglas B. Laney
 | <img src="https://images-na.ssl-images-amazon.com/images/I/51iw9AITfbL._SX331_BO1,204,203,200_.jpg" width="100"> |[Competing in the Age of AI: Strategy and Leadership When Algorithms and Networks Run the World](https://www.amazon.com/Competing-Age-AI-Leadership-Algorithms/dp/1633697622/) | Marco Iansiti 
+
 ## Backlog
 #### Short list
 |            | Book        | Author      |
